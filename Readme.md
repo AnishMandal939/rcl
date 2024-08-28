@@ -36,3 +36,9 @@ npm i --save-dev @babel/preset-env @babel/preset-react @babel/preset-typescript
 ```
 
 - npm test -- --detectOpenHandles : to detect open handles in jest test
+
+
+#### storybook setup:
+```bash
+npx storybook@latest init
+```
